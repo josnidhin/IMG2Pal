@@ -1,0 +1,14 @@
+ul{
+    list-style: none;
+    padding: 0;
+    display: table;
+}
+
+li{
+    float: left;
+    padding: 15px;
+}
+
+img{
+    width: 250px;
+}
